@@ -1,0 +1,2 @@
+void rupiah();
+void dolar();
